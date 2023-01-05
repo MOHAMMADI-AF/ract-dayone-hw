@@ -8,10 +8,10 @@ Not available
 
 ## Table of Content:
 
-About The App
-Technologies
-Setup
-Status
+- About The App
+- Technologies
+- Setup
+- Status
 
 ## About The App
 
